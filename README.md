@@ -1,6 +1,6 @@
 # 👨‍💻 Kunal Patel – Portfolio
 
-🚀 Web Developer | NLP | Crypto Data Projects
+🚀 Web Developer | Cyber Security | Crypto Data Projects
 
 ## 🔧 Skills
 - Python, JavaScript
@@ -14,6 +14,5 @@
 - **Web Scraping Tools** – Twitter & Reddit APIs
 
 ## 🌐 Live Portfolio
-👉https://Jiraiyasensei2.github.io
 
 
