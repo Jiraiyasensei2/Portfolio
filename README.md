@@ -14,5 +14,6 @@
 - **Web Scraping Tools** – Twitter & Reddit APIs
 
 ## 🌐 Live Portfolio
-👉https://Jiraiyasensei2.github.io/Portfolio
+👉https://Jiraiyasensei2.github.io
+
 
